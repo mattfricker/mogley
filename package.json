@@ -1,0 +1,24 @@
+{
+  "name": "mogley",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattfricker/mogley.git"
+  },
+  "author": "Matthew S. Fricker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattfricker/mogley/issues"
+  },
+  "homepage": "https://github.com/mattfricker/mogley#readme",
+  "devDependencies": {
+    "karma": "^0.13.22",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2"
+  }
+}
